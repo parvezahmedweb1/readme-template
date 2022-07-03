@@ -14,17 +14,9 @@
 
 <br>
 
----
-
-<br>
-
 ## Paragraph
 
 <p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.</p>
-
-<br>
-
----
 
 <br>
 
@@ -42,13 +34,11 @@ _This line is Italic_
 
 <br>
 
----
-
-<br>
-
 ## Inline Code Block
 
 `This is inline code block`
+
+<br>
 
 ## Multiline Code Block
 
@@ -87,10 +77,6 @@ print();
 
 <br>
 
----
-
-<br>
-
 ## List
 
 #### Ordered list
@@ -115,10 +101,6 @@ print();
 
 <br>
 
----
-
-<br>
-
 ## Link
 
 ### Social media link
@@ -127,10 +109,6 @@ print();
 [Instagram][instagram-link]
 [LinkIn][linkin-link]
 [GitHub][github-link]
-
-<br>
-
----
 
 <br>
 
@@ -144,8 +122,6 @@ print();
 
 <br>
 
----
-
 ## Table
 
 ### Our teem
@@ -158,8 +134,6 @@ print();
 | Tamim Hasan   | 22  | Web Developer    |
 
 <br>
-
----
 
 <!-- ! all link -->
 
