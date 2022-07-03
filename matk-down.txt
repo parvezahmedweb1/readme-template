@@ -1,0 +1,16 @@
+what and why README.md
+how to make a comment
+normal text and new line
+horizontal rule
+heading
+paragraph
+italic
+bold
+strikethrough
+innile code block
+multiple line code block
+list
+link
+image
+emoji
+table
