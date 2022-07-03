@@ -106,7 +106,7 @@ print();
 
 <br>
 
-<img src="./images/parvez.jpeg" width="100%" />
+<img src="./images/parvez.jpeg" width="50%" />
 
 <br>
 
