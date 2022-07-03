@@ -12,13 +12,9 @@
 
 ###### This is heading 6
 
-<br>
-
 ## Paragraph
 
 <p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.</p>
-
-<br>
 
 ## Italic
 
@@ -32,13 +28,9 @@ _This line is Italic_
 
 ~~This line is Strikethrough~~
 
-<br>
-
 ## Inline Code Block
 
 `This is inline code block`
-
-<br>
 
 ## Multiline Code Block
 
@@ -99,8 +91,6 @@ print();
 - Node JS
 - MongoDB
 
-<br>
-
 ## Link
 
 ### Social media link
@@ -109,8 +99,6 @@ print();
 [Instagram][instagram-link]
 [LinkIn][linkin-link]
 [GitHub][github-link]
-
-<br>
 
 ## Profile
 
@@ -132,8 +120,6 @@ print();
 | Kamal Hossion | 21  | Digital Marketer |
 | Mokter Mia    | 22  | Web Developer    |
 | Tamim Hasan   | 22  | Web Developer    |
-
-<br>
 
 <!-- ! all link -->
 
